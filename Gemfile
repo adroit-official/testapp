@@ -47,4 +47,4 @@ end
 
 gem 'devise'
 
-gem 'yogesh'
+gem 'yogesh-Theadroit'
