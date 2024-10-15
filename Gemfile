@@ -45,6 +45,10 @@ group :development do
   gem 'spring'
 end
 
+<<<<<<< Updated upstream
 gem 'TTTT'
+=======
+gem 'TTTTT'
+>>>>>>> Stashed changes
 
 gem 'yogesh-Theadroit'
