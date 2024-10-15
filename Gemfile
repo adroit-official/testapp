@@ -45,6 +45,6 @@ group :development do
   gem 'spring'
 end
 
-gem 'devise'
+gem 'TTTT'
 
 gem 'yogesh-Theadroit'
